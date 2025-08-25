@@ -1,2 +1,2 @@
-# CCS2025-XAISocUsability
+# CORTEX
 Submission to USENIX 2026
